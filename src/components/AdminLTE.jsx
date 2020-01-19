@@ -16,7 +16,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import jQuery from 'jquery';
 
 import '../css/bootstrap.min.css';
-// import 'source-sans-pro/source-sans-pro.css';
+import 'source-sans-pro/source-sans-pro.css';
 import '../adminlte/css/AdminLTE.css';
 
 import 'bootstrap';
