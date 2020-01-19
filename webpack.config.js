@@ -121,7 +121,7 @@ module.exports = {
     // 'react-dates': 'react-dates',
     'react-dom': 'react-dom',
     'react-ionicons': 'react-ionicons',
-    'source-sans-pro/source-sans-pro.css': 'source-sans-pro/source-sans-pro.css',
+//     'source-sans-pro/source-sans-pro.css': 'source-sans-pro/source-sans-pro.css',
     // select2: 'select2',
   },
   resolve: {
